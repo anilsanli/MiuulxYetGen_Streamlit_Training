@@ -2,6 +2,6 @@ datetime
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
 catboost
 streamlit==1.14.1

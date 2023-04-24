@@ -34,10 +34,11 @@ if name:
 
 st.sidebar.markdown("""[Miuul - Instagram](https://www.instagram.com/miuul.official/)""")
 st.sidebar.markdown("""[YetGen - Instagram](https://www.instagram.com/yetkingencler/)""")
-st.sidebar.write("""\n""")
 st.sidebar.info("""Kişisel Hesaplarım""")
 st.sidebar.markdown("""[Anıl Şanlı - LinkedIn](https://www.linkedin.com/in/anilsanli/)""")
 st.sidebar.markdown("""[Anıl Şanlı - GitHub](https://github.com/anilsanli)""")
+st.sidebar.info("""Diğer Projeler""")
+st.sidebar.markdown("""[WhatsApp Chat Analysis](https://whatsapp-group-chat-analysis.herokuapp.com)""")
 
 if page == "Giriş":
     st.markdown("<h1 style='text-align:center;'>Miuul x YetGen Streamlit Eğitimi</h1>", unsafe_allow_html=True)
